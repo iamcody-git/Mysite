@@ -10,6 +10,7 @@ const Footer = () => {
                 <a href="https://www.facebook.com/profile.php?id=100089446107822&mibextid=ZbWKwL" reltarget="_blank"><i className="fab fa-facebook"></i></a>
                 <a href="https://www.instagram.com/prashant.adk09/" reltarget="_blank"><i className="fab fa-instagram"></i></a>
                 <a href="https://www.twitter.com/prashan43022547" reltarget="_blank"><i className="fab fa-twitter"></i></a>
+                <a href="https://www.threads.net/@prashant.adk09" reltarget="_blank"><i className="fab fa-threads"></i></a>
             </div>
         </div>
     </footer>
