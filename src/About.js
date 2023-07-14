@@ -25,7 +25,10 @@ const About = () => {
                                 <li>For collaboration: adhikariprashant009@gmail.com</li>
                                 <li>Phone: +977 9848745588</li>
                                 <li>Hobbies: Playing and Watching games like Football, Cricket etc</li>
-                                <li>From: Dumkibas, Nawalpur, Nepal</li>
+                                <li>From: Dumkibas, Nawalpur, Nepal</li><br/><br/>
+                                <h6>Account to connect:</h6>
+                                <li>tryhackme: https://tryhackme.com/profile</li>
+                                <li>Github: https://github.com/iamcody-git</li>
                             </ul>
                         </div>
                     </div>
